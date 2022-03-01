@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "abstraction",
+  "version": "${version}",
+
+  "name": "Abstraction",
+  "description": "//TODO",
+  "authors": [
+    "Gottfrid"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "//TODO"
+  },
+
+  "license": "MIT",
+  "icon": "assets/abstraction/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "se.gottfrid.abstraction.Abstraction"
+    ]
+  },
+  "mixins": [
+    "abstraction.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
