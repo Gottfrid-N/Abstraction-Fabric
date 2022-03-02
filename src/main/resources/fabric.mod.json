@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "se.gottfrid.abstraction.Abstraction"
+      "se.gottfrid.abstraction.AbstractionMain"
     ]
   },
   "mixins": [
