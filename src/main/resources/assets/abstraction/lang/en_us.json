@@ -1,0 +1,15 @@
+{
+  "item.abstraction.raw_tin": "Raw Tin",
+  "item.abstraction.raw_aluminium": "Raw Aluminium",
+  "item.abstraction.raw_silver": "Raw Silver",
+  "item.abstraction.raw_lead": "Raw Lead",
+  "item.abstraction.raw_nickel": "Raw Nickel",
+  "item.abstraction.raw_platinum": "Raw Platinum",
+
+  "item.abstraction.tin_ingot": "Tin Ingot",
+  "item.abstraction.aluminium_ingot": "Aluminium Ingot",
+  "item.abstraction.silver_ingot": "Silver Ingot",
+  "item.abstraction.lead_ingot": "Lead Ingot",
+  "item.abstraction.nickel_ingot": "Nickel Ingot",
+  "item.abstraction.platinum_ingot": "Platinum Ingot"
+}
