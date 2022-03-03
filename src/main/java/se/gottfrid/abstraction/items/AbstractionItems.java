@@ -17,11 +17,13 @@ public class AbstractionItems {
     // craftingc
 
         // misc
-
+    public static final Item ANDESITE_ALLOY = registerItem("andesite_alloy",
+        new Item(new FabricItemSettings().group(AbstractionItemGroup.ABSTRACTION).group(AbstractionItemGroup.CRAFTINGC)));
 
         // fixtures
 
         // mechanisms
+
 
 // metal
 

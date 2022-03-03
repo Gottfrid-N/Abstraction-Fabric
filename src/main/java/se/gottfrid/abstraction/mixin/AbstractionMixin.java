@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class AbstractionMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		AbstractionMain.LOGGER.info("This line is printed by abstraction mixin");
+		AbstractionMain.LOGGER.info("This line is printed by " + AbstractionMain.NAME + " mixin");
 	}
 }

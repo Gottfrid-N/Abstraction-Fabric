@@ -9,6 +9,7 @@ import se.gottfrid.abstraction.items.AbstractionItems;
 public class AbstractionMain implements ModInitializer {
 
 	public static final String ID = "abstraction";
+	public static final String NAME = "Abstraction";
 	public static final Logger LOGGER = LoggerFactory.getLogger(ID);
 
 	@Override

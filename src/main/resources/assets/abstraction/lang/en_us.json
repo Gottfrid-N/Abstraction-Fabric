@@ -6,10 +6,43 @@
   "item.abstraction.raw_nickel": "Raw Nickel",
   "item.abstraction.raw_platinum": "Raw Platinum",
 
+  "item.abstraction.raw_zinc": "Raw Zinc",
+
   "item.abstraction.tin_ingot": "Tin Ingot",
   "item.abstraction.aluminium_ingot": "Aluminium Ingot",
   "item.abstraction.silver_ingot": "Silver Ingot",
   "item.abstraction.lead_ingot": "Lead Ingot",
   "item.abstraction.nickel_ingot": "Nickel Ingot",
-  "item.abstraction.platinum_ingot": "Platinum Ingot"
+  "item.abstraction.platinum_ingot": "Platinum Ingot",
+
+  "item.abstraction.zinc_ingot": "Zinc Ingot",
+
+  "item.abstraction.tin_nugget": "Tin Nugget",
+  "item.abstraction.aluminium_nugget": "Aluminium Nugget",
+  "item.abstraction.silver_nugget": "Silver Nugget",
+  "item.abstraction.lead_nugget": "Lead Nugget",
+  "item.abstraction.nickel_nugget": "Nickel Nugget",
+  "item.abstraction.platinum_nugget": "Platinum Nugget",
+
+  "item.abstraction.zinc_nugget": "Zinc Nugget",
+
+  "item.abstraction.crushed_tin": "Crushed Tin",
+  "item.abstraction.crushed_aluminium": "Crushed Aluminium",
+  "item.abstraction.crushed_silver": "Crushed Silver",
+  "item.abstraction.crushed_lead": "Crushed Lead",
+  "item.abstraction.crushed_nickel": "Crushed Nickel",
+  "item.abstraction.crushed_platinum": "Crushed Platinum",
+
+  "item.abstraction.crushed_zinc": "Crushed Zinc",
+
+  "item.abstraction.pulverized_tin": "Pulverized Tin",
+  "item.abstraction.pulverized_aluminium": "Pulverized Aluminium",
+  "item.abstraction.pulverized_silver": "Pulverized Silver",
+  "item.abstraction.pulverized_lead": "Pulverized Lead",
+  "item.abstraction.pulverized_nickel": "Pulverized Nickel",
+  "item.abstraction.pulverized_platinum": "Pulverized Platinum",
+
+  "item.abstraction.pulverized_zinc": "Pulverized Zinc"
+
+
 }
