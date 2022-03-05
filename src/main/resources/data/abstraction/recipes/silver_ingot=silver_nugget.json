@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "abstraction:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "abstraction:silver_nugget",
+    "count": 9
+  }
+}

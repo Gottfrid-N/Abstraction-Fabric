@@ -10,10 +10,8 @@ import se.gottfrid.abstraction.AbstractionMain;
 
 public class AbstractionItemGroup {
     // util
-    public static final ItemGroup ABSTRACTION = FabricItemGroupBuilder.build(new Identifier(AbstractionMain.ID, "abstraction"),
-            () -> new ItemStack(Items.STICK));
     public static final ItemGroup METAL = FabricItemGroupBuilder.build(new Identifier(AbstractionMain.ID, "metal"),
-            () -> new ItemStack(Items.STICK));
+            () -> new ItemStack(AbstractionItems.PLATINUM_INGOT));
     public static final ItemGroup CRAFTINGC = FabricItemGroupBuilder.build(new Identifier(AbstractionMain.ID, "craftingc"),
             () -> new ItemStack(Items.STICK));
 

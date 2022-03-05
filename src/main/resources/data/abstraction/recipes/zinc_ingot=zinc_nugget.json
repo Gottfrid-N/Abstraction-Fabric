@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "abstraction:zinc_ingot"
+    }
+  ],
+  "result": {
+    "item": "abstraction:zinc_nugget",
+    "count": 9
+  }
+}

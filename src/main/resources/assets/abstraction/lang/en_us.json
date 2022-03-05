@@ -42,7 +42,11 @@
   "item.abstraction.pulverized_nickel": "Pulverized Nickel",
   "item.abstraction.pulverized_platinum": "Pulverized Platinum",
 
-  "item.abstraction.pulverized_zinc": "Pulverized Zinc"
+  "item.abstraction.pulverized_zinc": "Pulverized Zinc",
 
-
+  "itemGroup.abstraction.metal": "Metal",
+  "itemGroup.abstraction.craftingc": "Crafting Components",
+  "itemGroup.abstraction.fixtures": "Fixtures",
+  "itemGroup.abstraction.mechanisms": "Mechanisms",
+  "itemGroup.abstraction.machines": "Machines"
 }
